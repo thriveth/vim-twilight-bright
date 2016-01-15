@@ -7,7 +7,19 @@ well as it is straight out of Coloration.
 
 ## Screenshots
 
-![Running in the console, editing a Markdown file.](./images/TB-Console-Markdown.png)
+*Everybody loves screenshots!*   
+
+Running in the console, editing a Markdown file.
+
+![](./images/TB-Console-Markdown.png)
+
+Running in the console, editing a Python file:
+
+![](./images/TB-Console-python.png)
+
+Gvim, editing Python file:
+
+![](./images/TB-Gvim-Python.png)
 
 ## Install
 
