@@ -1,6 +1,13 @@
 # vim-twilight-bright
 
-Bright colorscheme for *Vim, converted from the TextMate theme by [Florian Pichler][1]; converted to Vim colorscheme using [Coloration][2]. I have not made any attempts to modify it - I might later, might not. I like it pretty well as it is straight out of Coloration.
+Bright colorscheme for \*Vim, converted from the TextMate theme by [Florian
+Pichler][1]; converted to Vim colorscheme using [Coloration][2]. I have not
+made any attempts to modify it - I might later, might not. I like it pretty
+well as it is straight out of Coloration.
+
+## Screenshots
+
+![Running in the console, editing a Markdown file.](./images/TB-Console-Markdown.png)
 
 ## Install
 
