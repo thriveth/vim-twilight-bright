@@ -1,4 +1,4 @@
-# vim-twilight-bright
+# Twilight-bright colorscheme for Vim
 
 Bright colorscheme for \*Vim, converted from the TextMate theme by [Florian
 Pichler][1]; converted to Vim colorscheme using [Coloration][2]. I have not
